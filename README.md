@@ -75,8 +75,7 @@ The application uses the following database structure:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/noteflow.git
-   cd noteflow
+   git clone https://github.com/jlsisabi/ece1724_project.git
    ```
 
 2. Install dependencies:
