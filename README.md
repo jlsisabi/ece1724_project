@@ -113,6 +113,8 @@ npm run build
 The build output will be in the `dist` directory.
 
 ## Project Structure
+
+```bash
 project
 │  .env        # Environment variables for Supabase connection
 │  .gitignore  # Git ignore rules
@@ -161,7 +163,7 @@ project
             20250403153023_damp_snow.sql  # Initial schema setup
             20250403155915_rustic_violet.sql # Additional tables
             20250403162434_lively_wind.sql    # Security policies
-
+```
 
 ## Security Considerations
 
